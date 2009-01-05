@@ -1,0 +1,8 @@
+Debug/*
+Release/*
+*.suo
+*.ncb
+lswitch/Debug/*
+lswitch/Release/*
+lswitch/*.user
+!Release/lswitch.exe
