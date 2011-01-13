@@ -1,8 +1,11 @@
 Debug/*
 Release/*
+x64/*
 *.suo
 *.ncb
 lswitch/Debug/*
 lswitch/Release/*
+lswitch/x64/*
 lswitch/*.user
 !Release/lswitch.exe
+!x64/Release/lswitch.exe
